@@ -1,0 +1,15 @@
+---
+title: "its_git_time"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## gitting started
+
+```{r}
+str(iris)
+```
+
