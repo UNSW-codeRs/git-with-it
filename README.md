@@ -4,7 +4,7 @@ Have you ever broken your code and/or lost track of the changes you've made? Hav
 
 Participants should have registered for a Github account ([https://github.com/join](https://github.com/join)) and have downloaded Github Desktop ([https://desktop.github.com/](https://desktop.github.com/))
 
-**Presenter Bio:** Assoc Prof Daniel Falster is an ARC future fellow in the School of Biological, Earth & Environmental Sciences. Daniel uses a combination of maths, computer models, and large data sets to test fundamental ideas about the ecological and evolutionary processes shaping forest structure and diversity. He uses git and GitHub every day, and is passionate about open data, reproducible research, and teaching biologists to code.
+**Presenter Bio:** Assoc Prof Daniel Falster is an ARC future Fellow in the School of Biological, Earth & Environmental Sciences. Daniel uses a combination of maths, computer models, and large data sets to test fundamental ideas about the ecological and evolutionary processes shaping forest structure and diversity. He uses git and GitHub every day, and is passionate about open data, reproducible research, and teaching biologists to code.
 
 **Co presenters:**
 
